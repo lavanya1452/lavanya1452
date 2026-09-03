@@ -28,7 +28,7 @@
 
   <!-- Connect With Me -->
   <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <a href="https://www.linkedin.com/in/lavanya-sm-402352a1">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:lavanya.sm142@gmail.com">
@@ -40,9 +40,6 @@
     <a href="https://YOUR_PORTFOLIO_URL.com">
       <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-    </a>
   </p>
 
 </div>
@@ -53,7 +50,7 @@
 
 I'm a Computer Science undergraduate with a strong interest in **Artificial Intelligence, Machine Learning, Data Science and Analytics**.
 
-I enjoy exploring datasets, finding patterns, building predictive models, and turning raw data into useful insights.
+I enjoy exploring datasets, finding patterns, building models, and creating bugs I didn't know were possible.
 
 - 🤖 Exploring **Machine Learning & Applied AI**
 - 📊 Analysing data because I genuinely enjoy finding patterns in it
@@ -130,7 +127,9 @@ A web application built to help people share surplus food and reduce food waste.
 
 **Tech Stack:** React • JavaScript • Node.js
 
-🔗 [View Project](https://github.com/lavanya1452/food-share)
+🔗 **[View Repository](https://github.com/Jan2309jr/food-share)**
+
+
 ---
 
 ### 🗄️ SQL Analytics & Business Insights
