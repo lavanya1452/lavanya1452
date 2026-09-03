@@ -72,6 +72,7 @@ I enjoy exploring datasets, finding patterns, building predictive models, and tu
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,powershell" />
 </p>
+
 ### 🤖 AI & Machine Learning
 
 <p>
@@ -84,12 +85,22 @@ I enjoy exploring datasets, finding patterns, building predictive models, and tu
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Data Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,bigquery,jupyter" />
+</p>
+
 ### 🔧 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
-
 ---
 
 ## 🚀 Featured Projects
