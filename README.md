@@ -1,36 +1,47 @@
 <!-- ================================================================= -->
-<!-- GITHUB PROFILE README: Lavanya SM (lavanya1452)                  -->
-<!-- Target Repository: https://github.com/lavanya1452/lavanya1452      -->
+<!-- GITHUB PROFILE README: Lavanya SM                                -->
+<!-- GitHub: https://github.com/lavanya1452                           -->
 <!-- ================================================================= -->
 
 <div align="center">
 
-  <!-- Typing SVG Dynamic Header -->
+  <!-- Animated Header -->
   <a href="https://github.com/lavanya1452">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%F0%9F%91%8B+Hi%2C+I'm+Lavanya+SM;Computer+Science+Undergraduate;AI+%26+ML+%E2%80%A2+Data+Science+%E2%80%A2+SQL+%E2%80%A2+Python;Building+Practical+AI+%26+Data-Driven+Solutions" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Lavanya+SM;Computer+Science+Undergraduate;AI%2FML+%E2%80%A2+Data+Science+%E2%80%A2+SQL+%E2%80%A2+Python;Turning+Data+Into+Insights+%26+Intelligent+Solutions"
+      alt="Typing SVG"
+    />
   </a>
 
-  <p align="center">
-    <strong>Computer Science Undergraduate</strong> • <em>Aspiring AI/ML & Data Science Engineer</em><br>
-    📍 India • 🎓 Focused on Machine Learning, Applied Data Analytics & Intelligent Systems
+  <p>
+    <strong>Computer Science Undergraduate</strong>
+    •
+    <em>AI/ML & Data Science Enthusiast</em>
   </p>
 
-  <!-- Connect With Me Badges -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <p>
+    📍 India &nbsp; • &nbsp;
+    🤖 AI/ML &nbsp; • &nbsp;
+    📊 Data Science &nbsp; • &nbsp;
+    🗄️ SQL
+  </p>
+
+  <!-- Connect With Me -->
+  <p>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:lavanya.sm142@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/lavanya1452" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/lavanya1452">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <a href="https://YOUR_PORTFOLIO_URL.com">
+      <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
     </a>
   </p>
 
@@ -38,56 +49,160 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-```yaml
-Name: Lavanya SM
-Role: Computer Science Undergraduate & Aspiring AI/ML Engineer
-Specialization: Machine Learning, Data Analytics, Applied AI, Database Engineering
-Core_Stack: Python, SQL, C++, Scikit-learn, Pandas, NumPy
-Focus: Developing scalable data pipelines, intelligent models & practical software
-🎓 Education: Pursuing Computer Science and Engineering with strong foundations in DSA, DBMS, OS, & Applied Statistics.
-🔬 Interests: Machine Learning algorithms, Predictive Modeling, Exploratory Data Analysis (EDA), and SQL Analytics.
-💡 Goal: Turning complex data into actionable insights and deploying reliable ML systems.
-📫 Reach Me: LinkedIn • 
-Email
-🎨 Languages & Tools I Have Placed My Hands On
-Languages & Tools Grid Row 1
-Languages & Tools Grid Row 2
-⚡ GitHub Stats
-Lavanya's GitHub StatsLavanya's GitHub Streak
+I'm a Computer Science undergraduate with a strong interest in **Artificial Intelligence, Machine Learning, Data Science and Analytics**.
 
+I enjoy exploring datasets, finding patterns, building predictive models, and turning raw data into useful insights.
 
+- 🤖 Exploring **Machine Learning & Applied AI**
+- 📊 Analysing data because I genuinely enjoy finding patterns in it
+- 🐍 Building projects with **Python**
+- 🗄️ Strengthening my **SQL & database** skills
+- 🧠 Learning **DSA, Statistics & ML fundamentals**
+- 🚀 Interested in building practical, data-driven solutions
+- ☕ Occasionally debugging problems that didn't exist five minutes ago
 
-Lavanya's Top Languages
-💻 Tech Stack:
-PythonSQLC++CJavaJavaScriptPowerShell
+---
 
-NumPyPandasScikit-LearnMatplotlibSeabornTensorFlowSciPy
+## 🛠️ Tech Stack
 
-MySQLPostgreSQLAnacondaJupyterVS CodeGitGitHub
+### 💻 Languages
 
-🚀 Featured Projects
-Project	Tech Stack	Highlights & Focus	Repository
-📊 Customer Segmentation Analysis	Python, Scikit-Learn, Pandas, K-Means, RFM	Applied unsupervised clustering and RFM behavioral metrics to partition customer bases into actionable personas for targeted marketing.	🔗 View Project
-🗄️ SQL Analytics & Business Insights	PostgreSQL, Window Functions, CTEs, Data Modeling	Formulated complex analytical queries to extract retention, sales trends, and customer lifetime value metrics from transactional datasets.	🔗 View Project
-🤖 End-to-End ML Prediction System	Python, Scikit-Learn, XGBoost, Streamlit / Flask	Designed a full supervised ML pipeline featuring automated preprocessing, feature importance analysis, model validation, and interactive inference.	🔗 View Project
-📈 Applied Data Science & EDA Pipeline	Python, NumPy, Pandas, Matplotlib, Seaborn	Conducted statistical hypothesis testing, automated data cleaning, multivariate visualization, and outlier detection across real-world datasets.	🔗 View Project
-🔒 LeakLock Smart Contract System	Solidity, Truffle, Smart Contracts, JavaScript	Implemented secure decentralized logic and automated migration testing for integrity verification and access control.	🔗 View Project
-⭐ Featured Highlight & 💡 Random Dev Quote
-📌 Featured Project
-Featured Repo	
-💡 Dev Quote
-Random Dev Quote
-📚 Currently Learning & Roadmap
-text
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,powershell" />
+</p>
 
+### 🤖 AI & Data Science
 
-  🧠 Advanced Machine Learning & Deep Learning (Neural Networks, PyTorch)
-  📐 Data Structures & Algorithms (LeetCode Problem Solving in C++ / Python)
-  📊 Advanced SQL Query Optimization, Indexing & CTEs
-  📈 Applied Statistics, Hypothesis Testing & A/B Experimentation
-"Passionate about turning raw data into meaningful intelligence and scalable solutions."
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,matplotlib" />
+</p>
 
-© Lavanya SM • GitHub Profile
-```
+### 🗄️ Databases & Data Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,anaconda,jupyter" />
+</p>
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Customer Segmentation Analysis
+
+**Tech:** Python • Pandas • Scikit-learn • K-Means • RFM
+
+Applied **unsupervised machine learning and RFM analysis** to segment customers into actionable behavioral groups for targeted business strategies.
+
+🔗 **[View Repository](YOUR_CUSTOMER_SEGMENTATION_REPO_URL)**
+
+---
+
+### 🗄️ SQL Analytics & Business Insights
+
+**Tech:** PostgreSQL • CTEs • Window Functions • Data Modeling
+
+Built analytical SQL queries to extract insights around **sales trends, customer behavior, retention and lifetime value** from transactional data.
+
+🔗 **[View Repository](YOUR_SQL_PROJECT_REPO_URL)**
+
+---
+
+### 🤖 End-to-End ML Prediction System
+
+**Tech:** Python • Scikit-learn • XGBoost • Streamlit/Flask
+
+Developed an end-to-end machine learning pipeline covering **data preprocessing, feature engineering, model training, validation and prediction**.
+
+🔗 **[View Repository](YOUR_ML_PROJECT_REPO_URL)**
+
+---
+
+### 📈 Applied Data Science & EDA Pipeline
+
+**Tech:** Python • NumPy • Pandas • Matplotlib • Seaborn
+
+Explored real-world datasets through **data cleaning, exploratory analysis, visualization, outlier detection and statistical analysis**.
+
+🔗 **[View Repository](YOUR_EDA_PROJECT_REPO_URL)**
+
+---
+
+### 🔐 LeakLock Smart Contract System
+
+**Tech:** Solidity • JavaScript • Truffle • Smart Contracts
+
+Developed a blockchain-based system focused on **secure decentralized logic, integrity verification and access control**.
+
+🔗 **[View Repository](YOUR_LEAKLOCK_REPO_URL)**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lavanya1452&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+    alt="Lavanya's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1452&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=lavanya1452&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lavanya1452&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```text
+🧠 Advanced Machine Learning & Deep Learning
+   └── Neural Networks • PyTorch • Model Optimization
+
+📊 Data Science & Statistics
+   └── Hypothesis Testing • Statistical Analysis • A/B Testing
+
+🗄️ Advanced SQL
+   └── Query Optimization • Indexing • CTEs • Window Functions
+
+💻 Data Structures & Algorithms
+   └── Problem Solving • C++ • Python • LeetCode
+
+🚀 Building
+   └── End-to-End ML & Data Science Projects
