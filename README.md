@@ -72,17 +72,16 @@ I enjoy exploring datasets, finding patterns, building predictive models, and tu
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,powershell" />
 </p>
-
-### 🤖 AI & Data Science
+### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
 </p>
 
-### 🗄️ Databases & Data Tools
+### 📊 Data Science & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,bigquery,jupyter" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
 </p>
 
 ### 🔧 Development Tools
