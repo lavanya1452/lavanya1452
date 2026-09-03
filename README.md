@@ -209,10 +209,10 @@ Developed a blockchain-based system focused on **secure decentralized logic, int
    └── Hypothesis Testing • Statistical Analysis • A/B Testing
 
 🗄️ Advanced SQL
-   └── Query Optimization • Indexing • CTEs • Window Functions
+   └── Query Optimization • Indexing • BigQuery • Window Functions
 
 💻 Data Structures & Algorithms
-   └── Problem Solving • C++ • Python • LeetCode
+   └── Problem Solving • Java • Python • LeetCode
 
 🚀 Building
    └── End-to-End ML & Data Science Projects
