@@ -105,6 +105,16 @@ I enjoy exploring datasets, finding patterns, building predictive models, and tu
 
 ## 🚀 Featured Projects
 
+### 🔐 LeakLock Smart Contract System
+
+**Tech:** Solidity • JavaScript • Truffle • Smart Contracts
+
+Developed a blockchain-based system focused on **secure decentralized logic, integrity verification and access control**.
+
+🔗 **[View Repository](https://github.com/lavanya1452/leaklock)**
+
+---
+
 ### 📊 Customer Segmentation Analysis
 
 **Tech:** Python • Pandas • Scikit-learn • K-Means • RFM
@@ -113,6 +123,14 @@ Applied **unsupervised machine learning and RFM analysis** to segment customers 
 
 🔗 **[View Repository](https://github.com/lavanya1452/Customer-Churn-Prediction)**
 
+---
+### 🍽️ Food Share
+
+A web application built to help people share surplus food and reduce food waste.
+
+**Tech Stack:** React • JavaScript • Node.js
+
+🔗 [View Project](https://github.com/lavanya1452/food-share)
 ---
 
 ### 🗄️ SQL Analytics & Business Insights
@@ -142,16 +160,6 @@ Developed an end-to-end machine learning pipeline covering **data preprocessing,
 Explored real-world datasets through **data cleaning, exploratory analysis, visualization, outlier detection and statistical analysis**.
 
 🔗 **[View Repository](YOUR_EDA_PROJECT_REPO_URL)**
-
----
-
-### 🔐 LeakLock Smart Contract System
-
-**Tech:** Solidity • JavaScript • Truffle • Smart Contracts
-
-Developed a blockchain-based system focused on **secure decentralized logic, integrity verification and access control**.
-
-🔗 **[View Repository](https://github.com/lavanya1452/leaklock)**
 
 ---
 
@@ -186,18 +194,6 @@ Developed a blockchain-based system focused on **secure decentralized logic, int
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lavanya1452&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-
-</div>
-
----
 
 ## 📚 Currently Learning
 
