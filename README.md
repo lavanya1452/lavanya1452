@@ -82,7 +82,7 @@ I enjoy exploring datasets, finding patterns, building predictive models, and tu
 ### 🗄️ Databases & Data Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,anaconda,jupyter" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,bigquery,jupyter" />
 </p>
 
 ### 🔧 Development Tools
@@ -101,7 +101,7 @@ I enjoy exploring datasets, finding patterns, building predictive models, and tu
 
 Applied **unsupervised machine learning and RFM analysis** to segment customers into actionable behavioral groups for targeted business strategies.
 
-🔗 **[View Repository](YOUR_CUSTOMER_SEGMENTATION_REPO_URL)**
+🔗 **[View Repository](https://github.com/lavanya1452/Customer-Churn-Prediction)**
 
 ---
 
@@ -141,7 +141,7 @@ Explored real-world datasets through **data cleaning, exploratory analysis, visu
 
 Developed a blockchain-based system focused on **secure decentralized logic, integrity verification and access control**.
 
-🔗 **[View Repository](YOUR_LEAKLOCK_REPO_URL)**
+🔗 **[View Repository](https://github.com/lavanya1452/leaklock)**
 
 ---
 
