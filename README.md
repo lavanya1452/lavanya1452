@@ -8,7 +8,7 @@
   <!-- Animated Header -->
   <a href="https://github.com/lavanya1452">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Lavanya+SM;Computer+Science+Undergraduate;AI%2FML+%E2%80%A2+Data+Science+%E2%80%A2+SQL+%E2%80%A2+Python;Turning+Data+Into+Insights+%26+Intelligent+Solutions"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Lavanya+SM;Computer+Science+Undergraduate;AI%2FML+%E2%80%A2+Data+Science+%E2%80%A2+SQL+%E2%80%A2+Python;Turning+Data+Into+Insights+%26+Intelligent+Solutions"
       alt="Typing SVG"
     />
   </a>
